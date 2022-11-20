@@ -105,3 +105,5 @@ async def filter_text(message: types.Message):
             await message.answer('---ERROR COMMAND---')
     else:
         await message.answer("ТЫ КТО ТАКОЙ? ПРОВАЛИВАЙ")
+
+        
