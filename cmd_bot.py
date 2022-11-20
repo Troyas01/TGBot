@@ -10,7 +10,7 @@ btn4 = KeyboardButton('open google')  # откр гуглХром
 btn5 = KeyboardButton('sleepPC')  # отправить ПК в сон
 btn6 = KeyboardButton('sound+10')  # прибавить звук на 10
 btn7 = KeyboardButton('sound-10')  # убавить звук на 10
-btn8 = KeyboardButton('closekeyb')  # СДЕЛАТЬ! вернуть назад(скрыть клаву)
+btn8 = KeyboardButton('closekeyb')  # Скрыть клавиатуру(кнопки)
 
 kb.add(btn1, btn2)
 kb.row(btn4, btn3)
